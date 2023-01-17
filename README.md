@@ -1,2 +1,11 @@
 # data_wrangling
-Miscellaneous data wrangling code from a Udacity class I took
+
+## Overall Purpose:
+This is from a Udacity class on data wrangling that I took.
+
+## Wrangled Data:
+<ul>
+   <li>XML</li>
+   <li>Website</li>
+   <li>Mongo DB</li>
+</ul>
